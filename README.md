@@ -4,7 +4,7 @@ Unit-тесты сервисов электронной библиотеки. Л
 
 ## Стек
 
-.NET 10
+- .NET 10
 - xUnit
 - Moq
 - FluentAssertions
@@ -23,6 +23,6 @@ reportgenerator -reports:"Library.Tests\TestResults\*\coverage.cobertura.xml" -t
 ```
 
 ## Результаты
-17 тестов
-пройдено 17
-покрытие ~95%
+- 17 тестов
+- пройдено 17
+- покрытие ~95%
