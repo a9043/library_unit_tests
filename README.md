@@ -4,7 +4,11 @@ Unit-тесты сервисов электронной библиотеки. Л
 
 ## Стек
 
-.NET 10 · xUnit · Moq · FluentAssertions · coverlet
+.NET 10
+- xUnit
+- Moq
+- FluentAssertions
+- coverlet
 
 ## Запуск
 
